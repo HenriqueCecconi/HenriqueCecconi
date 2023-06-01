@@ -34,8 +34,7 @@ Hi, I'm Henrique Cecconi
 I'm a developer currently working at B3, the Stock Exchange of Brasil with Python and R.
 There, I mainly use programming as a tool for analysing data, process automating, and building graphical interfaces.
 
-Currently I'm studying to transition to backend development with Python,
-by making projects using python and web frameworks like FastAPI and Flask.
+Currently I'm studying web development, HTML, CSS and Ruby.
 
 I'm fascinated by technology, love learning new languages and am always open to new chalenges.
 
@@ -46,7 +45,7 @@ Reach me on
 - [twitter.com/CecconiHenrique](twitter.com/CecconiHenrique)
 - [instagram.com/henrique_cecconi](instagram.com/henrique_cecconi)
 
-I mainly code using Python, Flask, FAstAPI, R
+I mainly code using R and Python
 
 My toolbox includes Fedora, Vim, VSCode, Git
 
