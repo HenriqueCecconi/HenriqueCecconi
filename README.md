@@ -3,8 +3,7 @@
 I'm a developer currently working at B3, the Stock Exchange of Brasil with Python and R.
 There, I mainly use programming as a tool for analysing data, process automating, and building graphical interfaces.
 
-Currently I'm studying to transition to backend development with Python,
-by making projects using python and web frameworks like FastAPI and Flask.
+Currently I'm studying web development, HTML, CSS and Ruby.
 
 I'm fascinated by technology, love learning new languages and am always open to new chalenges.
 
